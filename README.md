@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 
 </div>
 
----
-
 ## 💻 Stack tecnológico
 
 <div align="center">
@@ -79,8 +77,6 @@ Here are some ideas to get you started:
 
 </div>
 
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -92,8 +88,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielajimenez99&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=c9d1d9" />
 </div>
 
----
-
 ## 🌐 Conecta conmigo
 
 <div align="center">
@@ -102,8 +96,6 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/miss.selfdestrukt)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=danielajimenez99&color=53b14f&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
