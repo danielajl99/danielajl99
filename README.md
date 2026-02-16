@@ -28,19 +28,19 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://image.tmdb.org/t/p/w500/qMQVGb4LhYKvwQBORXL0cCmYmtd.jpg" width="150px" alt="Pulp Fiction"/><br/>
+        <img src="https://image.tmdb.org/t/p/w500/qMQVGb4LhYKvwQBORXL0cCmYmtd.jpg" width="150px" alt="NBK"/><br/>
         <sub><b>Natural Born Killers (1994)</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://image.tmdb.org/t/p/w500/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg" width="150px" alt="The Shawshank Redemption"/><br/>
+        <img src="https://image.tmdb.org/t/p/w500/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg" width="150px" alt="Old Boy"/><br/>
         <sub><b>Old Boy (2003)</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://image.tmdb.org/t/p/w500/8aTxu7zIIEqMKjFXfCRyWf4sIca.jpg" width="150px" alt="The Lord of the Rings"/><br/>
+        <img src="https://image.tmdb.org/t/p/w500/8aTxu7zIIEqMKjFXfCRyWf4sIca.jpg" width="150px" alt="Tank Girl"/><br/>
         <sub><b>Tank Girl (1995)</b></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://image.tmdb.org/t/p/w500/qqHn4nTXkI19rtKrc1p2Mdry6Pc.jpg" width="150px" alt="The Matrix"/><br/>
+        <img src="https://image.tmdb.org/t/p/w500/qqHn4nTXkI19rtKrc1p2Mdry6Pc.jpg" width="150px" alt="Léon"/><br/>
         <sub><b>Léon el profesional (1994)</b></sub>
       </td>
     </tr>
@@ -80,12 +80,12 @@ Here are some ideas to get you started:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielajimenez99&theme=dark&hide_border=true&background=0D1117&stroke=53b14f&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielajl99&theme=dark&hide_border=true&background=0D1117&stroke=53b14f&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielajimenez99&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielajimenez99&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielajl99&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&icon_color=53b14f&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielajl99&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=53b14f&text_color=c9d1d9" />
 </div>
 
 ## 🌐 Conecta conmigo
